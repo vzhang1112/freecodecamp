@@ -1,0 +1,45 @@
+CELESTIAL,TYPE_NAME,GALAXY NAME,STAR NAME,PLANET NAME,MOON NAME,EARTH_VIEWABLE,DISTANCE FROM EARTH,KNOWN_PLANETS,FACTS,HAS_LIFE,DIST_FROM_PLANET
+GALAXY,Barred spiral,Milky Way,,,,TRUE,0,,,,
+GALAXY,Barred spiral,Andromeda,,,,TRUE,2.537,,,,
+GALAXY,Spiral,Whirlpool,,,,TRUE,23.16,,,,
+GALAXY,Elliptical,Saffronius,,,,FALSE,99.342,,,,
+GALAXY,Peculiar,Soupy Way,,,,FALSE,3.145,,,,
+GALAXY,Irregular,Paddington,,,,FALSE,57.775,,,,
+STAR,Solar-type,Milky Way,Sol,,,,,9,Has solar storms causing Northern Lights,,
+STAR,Binary,Andromeda,Alpheratz,,,,,0,Is the brightest star in Andromeda,,
+STAR,Dwarf,Milky Way,Sirius,,,,,0,Is also named after a Harry Potter character,,
+STAR,Red giant,Saffronius,Vanillius,,,,,4,Is made entirely by vanilla beans,,
+STAR,Hot blue,Soupy Way,Fodori,,,,,7,Has lots of philosophers in it,,
+STAR,Dwarf,Paddington,Ursa,,,,,2,Paddington the Bear easter egg lol,,
+PLANET,Terrestrial,Milky Way,Sol,Mercury,,,,,Also known as my,FALSE,
+PLANET,Terrestrial,Milky Way,Sol,Venus,,,,,Is twins with earth,FALSE,
+PLANET,Terrestrial,Milky Way,Sol,Earth,,,,,Where we live,TRUE,
+PLANET,Terrestrial,Milky Way,Sol,Mars,,,,,Where we want to live,FALSE,
+PLANET,Gas giant,Milky Way,Sol,Jupiter,,,,,Has an eternal storm,FALSE,
+PLANET,Gas giant,Milky Way,Sol,Saturn,,,,,Has cool rings,FALSE,
+PLANET,Gas giant,Milky Way,Sol,Uranus,,,,,Is a joke amongst middle schoolers,FALSE,
+PLANET,Gas giant,Milky Way,Sol,Neptune,,,,,Is blue and is everyones favourite Roman god,FALSE,
+PLANET,Gas giant,Milky Way,Sol,Pluto,,,,,Is having an identity crisis,FALSE,
+PLANET,Gas giant,Soupy Way,Fodori,Cottonus,,,,,Is filled with cotton candy,FALSE,
+PLANET,Terrestrial,Soupy Way,Fodori,Brickerus,,,,,Is made entirely by bricks,FALSE,
+PLANET,Terrestrial,Saffronius,Vanillius,Pepperin,,,,,Is made entirely by pepper,FALSE,
+MOON,,Milky Way,Sol,Earth,Luna,,,,Is named after a Harry Potter character,,384400
+MOON,,Milky Way,Sol,Mars,Phobos,,,,Is named after fear and panic,,6000
+MOON,,Milky Way,Sol,Mars,Deimos,,,,Is named after terror,,23460
+MOON,,Milky Way,Sol,Jupiter,Metis,,,,Looks like a disk,,128000
+MOON,,Milky Way,Sol,Jupiter,Adrastea,,,,Is tiny,,129000
+MOON,,Milky Way,Sol,Jupiter,Amalthea,,,,Looks like a red disk,,181400
+MOON,,Milky Way,Sol,Jupiter,Thebe,,,,Looks like a lost rock,,221900
+MOON,,Milky Way,Sol,Jupiter,Io,,,,Has a weird vowel only name,,421800
+MOON,,Milky Way,Sol,Jupiter,Europa,,,,Is named after Europe,,671100
+MOON,,Milky Way,Sol,Jupiter,Ganymede,,,,Was supposed to be named Runnymede but Toronto took it,,1070400
+MOON,,Milky Way,Sol,Jupiter,Callisto,,,,Was supposed to be named Calypso or something,,1882700
+MOON,,Milky Way,Sol,Jupiter,Themisto,,,,Is the only ungrouped moon lol,,7398500
+MOON,,Milky Way,Sol,Jupiter,Leda,,,,Was discovered by Kowal and Kowal alone,,11146400
+MOON,,Milky Way,Sol,Jupiter,Ersa,,,,Was supposed to be named Ursula but that was taken,,11401000
+MOON,,Milky Way,Sol,Jupiter,Himalia,,,,Is part of the group with the same name,,11440600
+MOON,,Milky Way,Sol,Jupiter,Pandia,,,,Is named between Panda and Pandora,,11481000
+MOON,,Milky Way,Sol,Jupiter,Euporie,,,,Is Euphoria before Euphoria became a thing,,19265800
+MOON,,Milky Way,Sol,Jupiter,Helike,,,,Is how you start any gossipy sentence,,20915700
+MOON,,Milky Way,Sol,Jupiter,Ananke,,,,Is Anakin but not as cool,,21034500
+MOON,,Milky Way,Sol,Jupiter,Kale,,,,Is the favourite moon of all diet bros,,23052600
