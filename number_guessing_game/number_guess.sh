@@ -2,7 +2,7 @@
 
 RAND_NUM=$(( $RANDOM % 1000 + 1 ))
 
-PSQL="psql --username=victoriazhang --dbname=number_guessing --no-align --tuples-only -c"
+PSQL="psql --username=victoriazhang --dbname=number_guess --no-align --tuples-only -c"
 
 PROCESS_GUESS() {
   # if the guess is a not a number: 
