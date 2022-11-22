@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PSQL="psql --username=victoriazhang --dbname=number_guessing --no-align --tuples-only -c"
+PSQL="psql --username=victoriazhang --dbname=number_guess --no-align --tuples-only -c"
 
 RESTART=$($PSQL "DROP TABLE users, game")
 
